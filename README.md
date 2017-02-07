@@ -6,7 +6,7 @@ See https://github.com/k0kubun/hamlit/issues/99.
 
 ## Usage
 
-```
+```rb
 # config/initializers/hamlit.rb
 Hamlit::BooleanAttributes.add('amp')
 Hamlit::BooleanAttributes.add('⚡')
