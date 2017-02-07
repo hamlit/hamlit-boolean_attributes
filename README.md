@@ -4,6 +4,12 @@ Hamlit plugin to modify the list of boolean attributes.
 
 See https://github.com/k0kubun/hamlit/issues/99.
 
+## Installation
+
+```rb
+gem 'hamlit-boolean_attributes'
+```
+
 ## Usage
 
 ```rb
